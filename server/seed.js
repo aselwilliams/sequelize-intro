@@ -25,6 +25,7 @@ module.exports = {
             last_name varchar(100), 
             email varchar(50), 
             phone_number varchar(15)
+            
         );
 
         create table cc_employees (
